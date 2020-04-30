@@ -1,0 +1,9 @@
+.jumbotron{
+background-image: url(gambar2.jpg);
+background-size: cover;
+height: 750px;
+
+}
+.container{
+    text-align: center;
+}
